@@ -1,0 +1,2 @@
+# SEIARM
+SEIARM - epidemological model
